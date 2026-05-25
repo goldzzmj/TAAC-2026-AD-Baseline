@@ -2,5 +2,7 @@ data/
 outputs/
 **/__pycache__/
 *.pyc
+*.png
+*.html
 .DS_Store
 Thumbs.db
